@@ -1,3 +1,4 @@
+// 验证回文串（只考虑字母和数字）
 class Solution {
     public boolean isPalindrome(String s) {
         if (s == null || s.length() < 2) {
